@@ -1,5 +1,5 @@
-<!--
-/*! NewWall  - Readme.md
+<strong><em>
+/\*! NewWall - Readme.md
 Copyright (c) 2020 AmMedia. All rights reserved.
 
 All portions of this file are the confidential and proprietary
@@ -7,8 +7,8 @@ intellectual property of AmMedia - NewWall.
 
 created by : Abhijeet mallick
 Email : abhijeetmallick29@gmail.com
-*/
--->
+\*/
+</em></strong>
 
 # NewWall
 
