@@ -31,3 +31,6 @@ How can I create value today?
 ## • ABOUT PERMISSIONS :
 
 Location - Automatic weather setup only
+
+# Download Newwall:
+https://bit.ly/3kBJDHi
